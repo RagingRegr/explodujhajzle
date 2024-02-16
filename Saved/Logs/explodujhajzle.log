@@ -2390,3 +2390,236 @@ Make sure 'ABP_kamenak_C' has been compiled for  Get speed
 [2024.02.16-07.11.24:968][ 96]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
 [2024.02.16-07.11.24:968][ 96]LogPython: Display: Object '/Engine/PythonTypes.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
 [2024.02.16-07.11.24:968][ 96]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:300][ 96]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.02.16-07.11.28:301][ 96]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2024.02.16-07.11.28:301][ 96]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2024.02.16-07.11.28:301][ 96]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.16-07.11.28:301][ 96]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.02.16-07.11.28:537][ 96]LogExit: Editor shut down
+[2024.02.16-07.11.28:552][ 96]LogExit: Transaction tracking system shut down
+[2024.02.16-07.11.28:766][ 96]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2024.02.16-07.11.33:540][ 96]LogExit: Object subsystem successfully closed.
+[2024.02.16-07.11.33:545][ 96]LogShaderCompilers: Display: ================================================
+[2024.02.16-07.11.33:545][ 96]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.02.16-07.11.33:545][ 96]LogShaderCompilers: Display: Total job queries 16, among them cache hits 6 (37.50%)
+[2024.02.16-07.11.33:545][ 96]LogShaderCompilers: Display: Tracking 10 distinct input hashes that result in 9 distinct outputs (90.00%)
+[2024.02.16-07.11.33:545][ 96]LogShaderCompilers: Display: RAM used: 212,25 KiB of 819,20 MiB budget. Usage: 0.03%
+[2024.02.16-07.11.33:545][ 96]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.02.16-07.11.33:545][ 96]LogShaderCompilers: Display: Shaders Compiled: 2
+[2024.02.16-07.11.33:545][ 96]LogShaderCompilers: Display: Jobs assigned 2, completed 2 (100%)
+[2024.02.16-07.11.33:545][ 96]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.08 s
+[2024.02.16-07.11.33:545][ 96]LogShaderCompilers: Display: Job execution time: average 4.58 s, max 4.59 s
+[2024.02.16-07.11.33:545][ 96]LogShaderCompilers: Display: Job life time (pending + execution): average 4.67 s, max 4.67
+[2024.02.16-07.11.33:545][ 96]LogShaderCompilers: Display: Shader code size: average 37,498 KiB, min 37,188 KiB, max 37,809 KiB
+[2024.02.16-07.11.33:545][ 96]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.67 s
+[2024.02.16-07.11.33:545][ 96]LogShaderCompilers: Display: Jobs were issued in 2 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.02.16-07.11.33:545][ 96]LogShaderCompilers: Display: Average processing rate: 0.43 jobs/sec
+[2024.02.16-07.11.33:545][ 96]LogShaderCompilers: Display: Total thread time: 1,213 s
+[2024.02.16-07.11.33:545][ 96]LogShaderCompilers: Display: Total thread preprocess time: 0,125 s
+[2024.02.16-07.11.33:545][ 96]LogShaderCompilers: Display: Percentage time preprocessing: 10.33%
+[2024.02.16-07.11.33:545][ 96]LogShaderCompilers: Display: Effective parallelization: 0.26 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.02.16-07.11.33:545][ 96]LogShaderCompilers: Display: Top 2 most expensive shader types by average time:
+[2024.02.16-07.11.33:545][ 96]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.63 sec, max 0.63 sec, min 0.63 sec)
+[2024.02.16-07.11.33:545][ 96]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.58 sec, max 0.58 sec, min 0.58 sec)
+[2024.02.16-07.11.33:545][ 96]LogShaderCompilers: Display: Top 2 shader types by total compile time:
+[2024.02.16-07.11.33:545][ 96]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 52.16% of total time (compiled    1 times, average 0.63 sec, max 0.63 sec, min 0.63 sec)
+[2024.02.16-07.11.33:545][ 96]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 47.84% of total time (compiled    1 times, average 0.58 sec, max 0.58 sec, min 0.58 sec)
+[2024.02.16-07.11.33:545][ 96]LogShaderCompilers: Display: ================================================
